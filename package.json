@@ -1,0 +1,23 @@
+{
+  "name": "ts-math",
+  "version": "1.0.0",
+  "description": "Type Definitions for the basic arithmetic operations in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanghos/ts-math.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phanghos/ts-math/issues"
+  },
+  "homepage": "https://github.com/phanghos/ts-math#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
